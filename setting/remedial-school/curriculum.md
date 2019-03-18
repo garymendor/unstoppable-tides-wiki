@@ -18,6 +18,10 @@ Each class has sixteen girls, and the morning quiz is graded on the curve. Accor
 
 The Monday test is particularly high stakes, as it also determines how many bowel bathroom passes each student gets for the *week*. Thus, whoever is the first to wet herself on Monday morning will not only have to spend the rest of the day wetting herself, but will have to soil herself for the rest of the week as well. (Any girl capable of holding her poo for a whole school day is unlikely to be in remedial school in the first place.) Even the girl with the best bladder control in the class will probably poop her panties at some point in the week, as she only has four poo passes to spread over five days.
 
+Any girl who begins to wet herself less than one minute after another girl begins to wet herself is deemed to have "tied" with the first girl. Thus, if three other girls wet themselves within a minute of the first girl doing so, all four will "tie" for an F. The first period teacher or breakfast monitors will not announce any student's morning test grade if any student is still actively wetting herself.
+
+Any girl who soils herself during the morning test automatically earns an F on the test. If she had already earned a higher grade for wetting herself later, any pee passes (and poo passes, if on Monday) that she had earned will be confiscated.
+
 A handy table for the morning quiz grading:
 
 Order of Wetting | Grade | Daily Pee Passes/Weekly Poo Passes
