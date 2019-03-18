@@ -22,6 +22,8 @@ Any girl who begins to wet herself less than one minute after another girl begin
 
 Any girl who soils herself during the morning test automatically earns an F on the test. If she had already earned a higher grade for wetting herself later, any pee passes (and poo passes, if on Monday) that she had earned will be confiscated.
 
+The morning bladder test begins at 7:30 AM on the dot, when breakfast begins, and ends at 9:00, the beginning of second period. Any girl who manages to hold it for this long will be required to wet herself at that time, but earns an automatic A.
+
 A handy table for the morning quiz grading:
 
 Order of Wetting | Grade | Daily Pee Passes/Weekly Poo Passes
