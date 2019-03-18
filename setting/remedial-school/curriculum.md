@@ -14,9 +14,19 @@ Just because a student lacks a pee pass, though, does not mean she should just w
 ## Morning Bladder Control Test
 The most notable bathroom rule is the morning bladder control test, colloquially known as the "whizz quiz". Each school morning, none of the girls are allowed to go to the bathroom until all of them have wet themselves. The longer each girl holds out, the better their score on the test.
 
-After the morning quiz is complete, each student is given one bladder bathroom pass for each grade point. Thus, the first girl to wet herself gets *no* pee passes that day, the next four get one pass, etc.
+Each class has sixteen girls, and the morning quiz is graded on the curve. Accordingly, the first girl to wet herself earns an F, the next four earn a D, the next six earn a C, the next four earn a B, and the last girl to wet herself earns an A. After the morning quiz is complete, each student is given one bladder bathroom pass for each grade point. Thus, the first girl to wet herself gets *no* pee passes that day, the next four get one pass, etc.
 
-The Monday test is particularly high stakes, as it also determines how many bowel bathroom passes each student gets for the *week*; thus the first girl to wet herself on Monday is not only denied permission to use the bathroom to pee for the day, but also denied to use the bathroom to poo for the whole week.
+The Monday test is particularly high stakes, as it also determines how many bowel bathroom passes each student gets for the *week*; thus the first girl to wet herself on Monday is not only denied permission to use the bathroom to pee for the day, but also denied to use the bathroom to poo for the whole week. The only way Monday's first wetter can avoid soiling herself that week is to be able to hold her poo for the *entire* school day - a feat which is basically impossible for any girl with poor enough toilet training to be in remedial school.
+
+A handy table for the whizz quiz grading:
+
+Order of Wetting | Grade | Daily Pee Passes/Weekly Poo Passes
+--- | --- | ---
+First | F | 0
+2-5 | D | 1
+6-11 | C | 2
+12-15 | B | 3
+Last | A | 4
 
 ## Bathroom and Accident Grading
 (More to come)
