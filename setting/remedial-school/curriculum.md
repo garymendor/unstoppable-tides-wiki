@@ -1,7 +1,7 @@
-<!-- TITLE: Remedial School Curriculum -->
+<!-- TITLE: Curriculum -->
 <!-- SUBTITLE: Or to be more accurate, the bathroom rules -->
 
-# Curriculum
+# Remedial School Curriculum
 The academic curriculum of a typical remedial school (mathematics, science, religion, history, etc.) is the same as for regular schools. Where remedial schools differ markedly is in the rules regarding students' access to the restroom - or perhaps more accurately, the lack thereof.
 
 ## Access to the Bathroom
