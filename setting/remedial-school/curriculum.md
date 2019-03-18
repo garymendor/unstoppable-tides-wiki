@@ -9,7 +9,7 @@ Unlike regular schools, which sometimes provide hall passes for particularly goo
 
 Even if a student makes it until the end of class, though, she still may not be guaranteed an opportunity to use the toilet. Each student is granted a number of "urination passes" and "defecation passes" according to her bathroom performance; if a student needs to urinate during school and lacks a "pee pass", even making it to the end of class does not spare her the humilation of wetting herself.
 
-Just because a student lacks a pee pass, though, does not mean she should just wet herself when she feels the urge. As described under "Bathroom and Accident Grading", a student who makes it all the way through class only to wet herself right in front of the bathroom will still earn a good grade for bladder control, which she needs to earn the privilege of changing the panties she just peed in.
+Just because a student lacks a pee pass, though, does not mean she should just wet herself when she feels the urge. As described under ["Bathroom and Accident Grading"](#bathroom-and-accident-grading), a student who makes it all the way through class only to wet herself right in front of the bathroom will still earn a good grade for bladder control, which she needs to earn the privilege of changing the panties she just peed in.
 
 ## Morning Bladder Control Test
 The most notable bathroom rule is the morning bladder control test, colloquially known as the "whizz quiz". Each school morning, none of the girls are allowed to go to the bathroom until all of them have wet themselves. The longer each girl holds out, the better their score on the test.
