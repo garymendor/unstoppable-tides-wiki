@@ -10,7 +10,7 @@ At the end of each day, each student receives *two* copies of their bathroom rep
 <tr><th width="20%">Student Name</th><td colspan=2 width="80%">Deborah ---</td></tr>
 <tr><th colspan=3>Morning Test</th></tr>
 <tr><th width="20%">Time of Wetting</th><td width="60%">8:13 (hold time 0:43)</td><th width="20%">Grade: C</th></tr>
-<tr><th colspan=3>Bathroom Incident Log</th><tr>
+<tr><th colspan=3>Bathroom Incident Log</th></tr>
 <tr><th width="10%">Time</th><th colspan=2 align="left" width="90%">Incident</th></tr>
 <tr><td width="10%">9:25</td><td colspan=2 width="90%">Student asked to defecate.</td></tr>
 <tr><td width="10%">9:40</td><td colspan=2 width="90%">Student asked to defecate in panties. Denied.</td></tr>
