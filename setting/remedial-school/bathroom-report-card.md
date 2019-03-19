@@ -6,12 +6,7 @@ At the end of each day, each student receives *two* copies of their bathroom rep
 
 ## Sample
 
-<style>
-.report-card td {
-  font-family: monospace
-}
-</style>
-<table class="report-card">
+<table>
 <tr><th width="20%">Student Name</th><td colspan=2 width="80%">Deborah ---</td></tr>
 <tr><th colspan=3>Morning Test</th></tr>
 <tr><th width="20%">Time of Wetting</th><td width="60%">8:13 (hold time 0:43)<th width="20%">Grade: C</th></tr>
