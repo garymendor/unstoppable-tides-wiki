@@ -18,5 +18,5 @@ At the end of each day, each student receives *two* copies of their bathroom rep
 <tr><td width="10%">9:52</td><td width="70%">Student defecated in panties.</td><th width="20%">Grade: C</th></tr>
 <tr><th colspan=3>Status of Panties</th></tr>
 <tr><th width="60%"></th><th width="20%">Times wet</th><th width="20%">Times soiled</th></tr>
-<tr><td width="60%">Panties 1<br/>White with pink polka dots</td><td width="20%">2</td><th width="20%">0</td></tr>
+<tr><td width="60%">Panties 1<br/>White with pink polka dots</td><td width="20%">2</td><td width="20%">0</td></tr>
 </table>
