@@ -39,7 +39,7 @@ At the end of each day, each student receives *two* copies of their bathroom rep
   "Grade   ": A
   
   "02:10 PM": Student asked to urinate.
-  "02:28 PM": Student urinated in panties in bathroom line.
+  "02:28 PM": Student urinated in panties in bathroom line (line position: 2).
   "Grade   ": B
   
   "03:12 PM": Student asked to urinate.
