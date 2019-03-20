@@ -55,7 +55,8 @@ At the end of each day, each student receives *two* copies of their bathroom rep
     "Time(s) wet   ": 2
     "Time(s) soiled": 1
   
-  "Panties 2   ": White with illustration of Fluttershy on the belly and the full MLP cast on the seat.
+  "Panties 2   ": White with illustration of Fluttershy on the belly
+              and the full MLP cast on the seat.
   "Clean       ": 11:28 AM-11:36 AM (0:08)
   "Wet Only    ": 11:36 AM-01:29 PM (1:53)
   "Wet+Soiled  ": 01:29 PM-03:30 PM (2:01)
