@@ -1,5 +1,5 @@
 <!-- TITLE: Daily Schedule -->
-<!-- SUBTITLE: A quick summary of Schedule -->
+<!-- SUBTITLE: The timetable for days at remedial school -->
 
 # Daily Schedule
 Time | Event
