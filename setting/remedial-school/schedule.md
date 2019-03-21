@@ -20,7 +20,7 @@ Time | Event
 # Arrive at School
 Buses arrive at the school between 7:00 and 7:30 AM. The girls' bathrooms are open until 7:30, to ensure that everyone can start the [morning bladder control test](./curriculum#morning-bladder-control-test) with an empty bladder and clean panties.
 
-When a girl gets in the morning bathroom line, her panties will be inspected. If she is wet or soiled, she must present her panties while she waits in line. Once she is in line, if she believes she cannot make it to the bathroom before breakfast, she may ask to wet or soil herself. She must present her panties while having the accident, and continue to do so until she reaches the front of the line.
+When a girl gets in the morning bathroom line, her panties will be inspected. If she is wet or soiled, she must present her panties while she waits in line. Once she is in line, if she believes she cannot make it to the bathroom before breakfast, she may ask to wet or soil herself. She must present her panties while having the accident, and continue to do so until she reaches the front of the line. If time still permits, she may go into the restroom to change her panties.
 
 At ten seconds before 7:30 AM, the school bell will chime for ten seconds. When the school bell finishes ringing, the morning bladder test begins. Any girls who are still in the bathroom, or who are currently wetting or soiling themselves in line, will automatically get an F.
 
