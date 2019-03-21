@@ -73,6 +73,8 @@ At 3:25, the last bell rings. Each student is called by name, given her [bathroo
 # Detention
 Students who have been punished with detention will be escorted to the classroom designated as a detention hall. This classroom will have a large panel window open to the adjacent hallway. Other students are allowed to wait outside the detention hall and observe the students in detention.
 
-All girls will be required to drink two cups of tea and take a mild laxative on entering the detention hall. No talking, doing homework, reading recreational books, use of personal electronics, going to the bathroom, or changing of panties is allowed.
+All girls will be required to drink two cups of tea and take a mild laxative on entering the detention hall. No talking, doing homework, reading recreational books, use of personal electronics, going to the bathroom, or changing of panties is permitted.
 
 Any student who needs to urinate or defecate during detention must stand and present her panties to the window, go to the bathroom in her panties, and remain standing until the detention monitor acknowledges her accident. She will then return to her seat. Accidents during detention are not graded; the student's bathroom report card will be based solely on her performance before detention.
+
+Once detention is over, students will be escorted to the car pickup point to wait for their ride. Again, no bathroom use or changing of panties is permitted.
