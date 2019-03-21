@@ -86,4 +86,6 @@ At the end of each day, each student receives *two* copies of their bathroom rep
   "Morning Test ": C
   "Daily Average": C
   "FINAL        ": C
+	
+"Recommended Changing Time": 4:36 PM
 ```
