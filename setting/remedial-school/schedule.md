@@ -63,13 +63,16 @@ Students may not change their panties or gym shorts during gym class, even if th
 Five minutes before the end of gym class, the gym teacher blows a whistle to call students in. Any girl who urinated or defecated during gym class must remove her gym shorts and shirt *outside* the locker room, hang them on the clothesline outside the girls' locker room, and enter the locker room in her panties, socks, and shoes. All gym uniforms have the student's name printed on them, and their uniforms will be returned to their lockers at the end of the day (or returned to the student on Friday).
 
 During shower time, students whose panties are wet or soiled and whose changing time has not yet arrived may remove their wet or soiled panties to shower, but must put them back on after drying off, and may not rinse or wash them in any way. Each shower stall has an alcove to store panties while showering; any student who loses control of her bladder or bowels while showering must immediately turn off the shower and put her panties back on, and may not do any further cleanup except to dry off her upper body or hair. This is considered an accident without asking to go, and earns an F and the usual changing-time penalty.
+# After-School Activities
+The last hour of the school day is allocated for school clubs and activities. Students who do not wish to join a club may use the school library for quiet reading time, but may not work on homework. (The reason why students can't work on homework in school is because the student's potty-training "homework" is to wait until her academic homework is done before she can go to the bathroom.)
 
+Students in after-school clubs or study hall follow the same bathroom rules as regular classes, and accidents during this period are graded similarly.
 # End of School
-At 3:25, the last bell rings. Each student is called by name, given her [bathroom report card](/setting/remedial-school/bathroom-report-card) and her gym uniform (on Friday), and sent to the buses or the car pickup area. Girls are not allowed to go to the bathroom on their way to being picked up.
+At 3:25, the last bell rings. Each student is called by name, given her [bathroom report card](/setting/remedial-school/bathroom-report-card) and her gym uniform (on Friday), and sent to the buses or the car pickup area. Girls may get in line to go to the bathroom on their way to their pickup point; but the buses' doors close promptly at 3:30 PM and the school bathrooms are locked at that time.
 
 # Detention
 Students who have been punished with detention will be escorted to the classroom designated as a detention hall. This classroom will have a large panel window open to the adjacent hallway. Other students are allowed to wait outside the detention hall and observe the students in detention.
 
-All girls will be required to drink two cups of tea and take a mild laxative on entering the detention hall. No talking, recreational books, use of personal electronics, going to the bathroom, or changing of panties is allowed.
+All girls will be required to drink two cups of tea and take a mild laxative on entering the detention hall. No talking, doing homework, reading recreational books, use of personal electronics, going to the bathroom, or changing of panties is allowed.
 
 Any student who needs to urinate or defecate during detention must stand and present her panties to the window, go to the bathroom in her panties, and remain standing until the detention monitor acknowledges her accident. She will then return to her seat. Accidents during detention are not graded; the student's bathroom report card will be based solely on her performance before detention.
