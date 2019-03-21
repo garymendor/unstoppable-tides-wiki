@@ -47,7 +47,6 @@ A student using the cleanup station must clean up in the following order:
 * Put on clean panties, socks, shoes, and skirt in that order. Socks and skirt may not be changed.  
 
 The student is not allowed to urinate or defecate while in the changing area. If the student is unable to control her bladder or bowels after removing her dirty panties, she must immediately pull on her clean panties and urinate or defecate until she is finished. This is considered an accident without asking to go to the bathroom, for which she earns an F and is prohibited from changing the freshly wet or soiled panties for four hours.
-
 # Lunch
 Students may use cleanup stations situated in the cafeteria. The rules for using the lunchroom changing stations are the same as for the classroom stations.
 
@@ -62,7 +61,7 @@ Students may not change their panties or gym shorts during gym class, even if th
 
 Five minutes before the end of gym class, the gym teacher blows a whistle to call students in. Any girl who urinated or defecated during gym class must remove her gym shorts and shirt *outside* the locker room, hang them on the clothesline outside the girls' locker room, and enter the locker room in her panties, socks, and shoes. After all students have entered, the clothesline will be sealed behind glass, to be hung back out at the start of the next gym class for the students to collect before class. All gym uniforms have the student's name printed on them, to make it easier for the students (or other observers) to identify their dirty gym clothes on the line.
 
-On Friday, before the end of the day, custodial staff will collect gym clothes from the clotheslines and students' gym lockers and distribute them to the students' classrooms to take home.
+On Friday, before the end of the day, custodial staff will collect gym clothes from the clotheslines and students' gym lockers and distribute them to the students' sixth period classrooms to be taken home.
 
 During shower time, students whose panties are wet or soiled and whose changing time has not yet arrived may remove their wet or soiled panties to shower, but must put them back on after drying off, and may not rinse or wash them in any way. Each shower stall has an alcove to store panties while showering; any student who loses control of her bladder or bowels while showering must immediately turn off the shower and put her panties back on, and may not do any further cleanup except to dry off her upper body or hair. This is considered an accident without asking to go, and earns an F and the usual changing-time penalty.
 # After-School Activities
@@ -70,7 +69,7 @@ The last hour of the school day is allocated for school clubs and activities. St
 
 Students in after-school clubs or study hall follow the same bathroom rules as regular classes, and accidents during this period are graded similarly.
 # End of School
-At 3:25, the last bell rings. Each student is called by name, given her [bathroom report card](/setting/remedial-school/bathroom-report-card) and her gym uniform (on Friday), and sent to the buses or the car pickup area. Girls may get in line to go to the bathroom on their way to their pickup point; but the buses' doors close promptly at 3:30 PM and the school bathrooms are locked at that time.
+At 3:25, the last bell rings. Each student is called by name, given her [bathroom report card](/setting/remedial-school/bathroom-report-card), and sent to the buses or the car pickup area. Girls may get in line to go to the bathroom on their way to their pickup point; but the buses' doors close promptly at 3:30 PM and the school bathrooms are locked at that time.
 
 # Detention
 Students who have been punished with detention will be escorted to the classroom designated as a detention hall. This classroom will have a large panel window open to the adjacent hallway. Other students are allowed to wait outside the detention hall and observe the students in detention.
