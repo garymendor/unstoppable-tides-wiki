@@ -60,4 +60,31 @@ There are a few additional rules to discourage students from "speculatively" ask
 * If a student has asked to go to the bathroom but shows no sign of desperation, in the "holding position", the teacher may demand that the student come up to the front of the class and have an accident. If she fails to do so, she will earn an automatic F; but if she does go in her panties, not only does she earn an automatic A, but she is immediately given a hall pass and a changing pass and permitted to go to the restroom to clean up. *This is the only circumstance under which girls may leave in the middle of class for toilet-related reasons.*
 
 ## Changes of Panties
-(More to come. tl;dr the better your potty-training letter grade, the less you have to wear your accidents.)
+After a student has an accident, she may change her panties after a certain amount of time passes, depending on what letter grade they earned for that accident. If the student has additional accidents in her panties before she changes, additional time is added depending on the letter grade for that accident.
+
+Grade | Initial Time | Penalty
+--- | --- | ---
+F | 4 hours | 1 hour
+D | 3 hours | 45 minutes
+C | 2 hours | 30 minutes
+B | 1 hour | 15 minutes
+A | N/A | None
+
+Students may ask to change at any time after they become eligible for a change. However, if they ask to change during class, they must do so at a cleanup station in full view of the classroom; if they ask to change during lunch, they must use a cleanup station in full view of the whole cafeteria.
+
+If the student's next time to change is after the end of the school day, the time will be noted on the student's daily [bathroom report card](/setting/remedial-school/bathroom-report-card). Parents are recommended to not allow their daughter to change their panties until this time, plus any penalty time the parents may add according to their own rules.
+
+### Example
+Debbie wets herself at 8:13 AM, and is the eighth girl to wet herself. She thus earns a C for the morning test, and will be allowed to change at 10:13 AM.
+
+Before she can get to that point, however, she soils herself at 9:52 AM after asking to do so. This earns a C, adding an additional 30 minutes of penalty time; she will now be allowed to change at 10:43 AM.
+
+At 10:43 AM, Debbie finds herself suddenly on the verge of wetting her panties. She does not bother asking for a change, since she believes she will be wetting herself shortly anyway. Her guess proves correct; eleven minutes later, at 10:54 PM, she asks for and recieves permission to pee her panties, and promptly does so. This earns another C, postponing her next change until 11:13 AM, during lunch.
+
+Since Debbie is too embarrassed to change her panties in front of the whole cafeteria, she waits until the end of lunch break, getting in line at the end of lunch and changing her panties at 11:28 AM.
+
+Unfortunately, the next period, gym class, is the bane of many students' toilet training, and so it proves for Debbie. At 11:36 AM, Debbie wets her panties and gym shorts before she even has time to blurt out that she needs to pee. This earns her an F, and a changing time of 3:36 PM. Debbie is now doomed to go without a change for the rest of the school day.
+
+At 12:53 PM, Debbie asks to poop; at 1:16 her urge is bad enough that she asks to soil her panties. The teacher denies her permission, but Debbie is able to hold out not only until the end of class, but actually makes it to the front of the bathroom line. Unfortunately, since she'd asked to poo her panties, she still has to do it; but nevertheless she earns an A, and her changing time is still 3:36 PM.
+
+She has two more accidents in school - a B wetting accident at 2:28 PM and a D wetting accident at 3:14 PM. These add 15 minutes and 45 minutes, respectively, to her changing time. She leaves school with a bathroom report card recommending that she not be allowed to change her (now very wet and messy) panties until 4:36 PM.
