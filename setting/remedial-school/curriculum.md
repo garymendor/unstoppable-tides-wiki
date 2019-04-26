@@ -101,5 +101,20 @@ The most important part of the female dress code is underwear. With a few except
 * **Childish designs.** They are white with childish patterns; floral or heart patterns are common, as are children's cartoon characters. Many training panties are designed so that their pattern changes color when wet.
 * **Drawstrings.** Training panties are designed to allow drawstrings to be inserted along the waistband and legbands; the drawstrings are then locked, with an electronic key provided to restroom monitors. The drawstrings prevent students from removing their panties without faculty permission, thus ensuring that a student with inadequate control of her bodily functions cannot avoid urinating or defecating in her panties, nor remove her dirty panties on her own. They also keep the panties from falling off when heavily loaded with feces.
 
-## Diapers
+## Diapers and Pull-Ups
 Under most conditions, parents are strongly discouraged from allowing remedial-school students to wear diapers; the point of remedial school is to train the student to be able to wear normal panties without having excessive amounts of accidents. However, some parents are known to use diapers as a punishment, and school rules allow for this purpose.
+
+Students who arrive at school wearing pull-ups are subject to the normal bathroom rules, with the following changes:
+* All pull-ups must be of school-approved brands. Approved pull-ups may not be capable of absorbing more than one bladderful of urine, and must have obvious wetness indicators.
+* Students may bring at most one change of pull-ups, and may not bring any other form of underwear changes. Parents are encouraged not to allow even that.
+* __**Pull-Ups**__
+If a student arrives at school wearing pull-ups, the usual rules apply, with the following changes:
+* All pull-ups must be of school-approved brands. Approved pull-ups may not be capable of absorbing more than one bladderful of urine, and must have obvious wetness indicators.
+* Students may bring at most one change of pull-ups, and may not bring any other form of underwear changes. Parents are encouraged not to allow even that.
+* Pull-up students may not have their pull-ups changed unless they have leaked urine *and* are soiled with feces.
+* Pull-up students may not wear any garments over their pull-ups during the morning bladder control test. They may bring a skirt or trousers to school, and may put them on after wetting their pull-ups.
+* Pull-up students may not receive better than a B on the morning bladder control test.
+* Pull-up students must have them publicly inspected at the start and end of each class. Any student found to have wet or soiled their pull-ups without announcing that they did so receives an automatic F potty grade.
+* Pull-up students may not wear any garments over their pull-ups during the morning bladder control test. They may bring a skirt or trousers to school, and may put them on after wetting their pull-ups.
+* Pull-up students may not receive better than a B on the morning bladder control test.
+* Pull-up students must have them publicly inspected at the start and end of each class. Any student found to have wet or soiled their pull-ups without announcing that they did so receives an automatic F potty grade.
