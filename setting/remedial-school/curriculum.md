@@ -88,3 +88,17 @@ Unfortunately, the next period, gym class, is the bane of many students' toilet 
 At 12:53 PM, Debbie asks to poop; at 1:16 her urge is bad enough that she asks to soil her panties. The teacher denies her permission, but Debbie is able to hold out not only until the end of class, but actually makes it to the front of the bathroom line. Unfortunately, since she'd asked to poo her panties, she still has to do it; but nevertheless she earns an A, and her changing time is still 3:36 PM.
 
 She has two more accidents in school - a B wetting accident at 2:28 PM and a D wetting accident at 3:14 PM. These add 15 minutes and 45 minutes, respectively, to her changing time. She leaves school with a bathroom report card recommending that she not be allowed to change her (now very wet and messy) panties until 4:36 PM.
+
+# Dress Code
+The dress code at a remedial school is *not* intended to prevent academic distractions to the opposite sex; quite the contrary, it is intended to maximize the humiliation and discomfort of toilet accidents for female students. Accordingly, attire for female students is not intended to provide for modesty.
+
+The most important part of the female dress code is underwear. With a few exceptions, female students at remedial school must wear special training panties at all times. Training panties have the following features:
+
+* **Full coverage.** Training panties are styled as full briefs, with the seat completely covering the buttocks and the waistline well above the hips. This is not to provide modesty, but to ensure that the underwear can retain a substantial volume of feces.
+* **Thick and absorbent,** but not *too* absorbent. They will retain a small amount of urine, enough to remain wet for long periods after being dampened, but will absorb no more than a tenth of a full bladder before soaking through. Cotton or cotton-like fabrics are common.
+* **Wetness-indicating.** Even small amounts of urine quickly wick through the fabric, so that the slightest leaks will be evident to the eye.
+* **Childish designs.** They are white with childish patterns; floral or heart patterns are common, as are children's cartoon characters. Many training panties are designed so that their pattern changes color when wet.
+* **Drawstrings.** Training panties are designed to allow drawstrings to be inserted along the waistband and legbands; the drawstrings are then locked, with an electronic key provided to restroom monitors. The drawstrings prevent students from removing their panties without faculty permission, thus ensuring that a student with inadequate control of her bodily functions cannot avoid urinating or defecating in her panties, nor remove her dirty panties on her own. They also keep the panties from falling off when heavily loaded with feces.
+
+## Diapers
+Under most conditions, parents are strongly discouraged from allowing remedial-school students to wear diapers; the point of remedial school is to train the student to be able to wear normal panties without having excessive amounts of accidents. However, some parents are known to use diapers as a punishment, and school rules allow for this purpose.
