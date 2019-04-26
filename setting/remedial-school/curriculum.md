@@ -107,14 +107,7 @@ Under most conditions, parents are strongly discouraged from allowing remedial-s
 Students who arrive at school wearing pull-ups are subject to the normal bathroom rules, with the following changes:
 * All pull-ups must be of school-approved brands. Approved pull-ups may not be capable of absorbing more than one bladderful of urine, and must have obvious wetness indicators.
 * Students may bring at most one change of pull-ups, and may not bring any other form of underwear changes. Parents are encouraged not to allow even that.
-* __**Pull-Ups**__
-If a student arrives at school wearing pull-ups, the usual rules apply, with the following changes:
-* All pull-ups must be of school-approved brands. Approved pull-ups may not be capable of absorbing more than one bladderful of urine, and must have obvious wetness indicators.
-* Students may bring at most one change of pull-ups, and may not bring any other form of underwear changes. Parents are encouraged not to allow even that.
-* Pull-up students may not have their pull-ups changed unless they have leaked urine *and* are soiled with feces.
-* Pull-up students may not wear any garments over their pull-ups during the morning bladder control test. They may bring a skirt or trousers to school, and may put them on after wetting their pull-ups.
-* Pull-up students may not receive better than a B on the morning bladder control test.
-* Pull-up students must have them publicly inspected at the start and end of each class. Any student found to have wet or soiled their pull-ups without announcing that they did so receives an automatic F potty grade.
-* Pull-up students may not wear any garments over their pull-ups during the morning bladder control test. They may bring a skirt or trousers to school, and may put them on after wetting their pull-ups.
-* Pull-up students may not receive better than a B on the morning bladder control test.
-* Pull-up students must have them publicly inspected at the start and end of each class. Any student found to have wet or soiled their pull-ups without announcing that they did so receives an automatic F potty grade.
+* Students may not have their pull-ups changed unless they have leaked urine *and* are soiled with feces.
+* Students may not wear any garments over their pull-ups during the morning bladder control test. They may bring a skirt or trousers to school, and may put them on after wetting their pull-ups.
+* Students may not receive better than a B on the morning bladder control test.
+* Students must have their pull-ups publicly inspected at the start and end of each class. Any student found to have wet or soiled their pull-ups without announcing that they did so receives an automatic potty grade of F.
