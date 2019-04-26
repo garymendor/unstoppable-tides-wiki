@@ -92,6 +92,7 @@ She has two more accidents in school - a B wetting accident at 2:28 PM and a D w
 # Dress Code
 The dress code at a remedial school is *not* intended to prevent academic distractions to the opposite sex; quite the contrary, it is intended to maximize the humiliation and discomfort of toilet accidents for female students. Accordingly, attire for female students is not intended to provide for modesty.
 
+## Panties
 The most important part of the female dress code is underwear. With a few exceptions, female students at remedial school must wear special training panties at all times. Training panties have the following features:
 
 * **Full coverage.** Training panties are styled as full briefs, with the seat completely covering the buttocks and the waistline well above the hips. This is not to provide modesty, but to ensure that the underwear can retain a substantial volume of feces.
