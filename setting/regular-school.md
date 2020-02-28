@@ -66,7 +66,7 @@ However, if the student had any accidents in the previous week, each accident re
 ## Very Bad passes
 These passes are generally issued as a punishment, either for having an accident or for some other misbehavior. None of them allow the student to use the toilet or potty. Roll 3d6:
 
-Number of choices:
+Number of choices | Frequency
 ---|---
 3 | 17-18 (1.9%)
 2 | 12-16 (35.6%)
