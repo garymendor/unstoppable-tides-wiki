@@ -118,3 +118,12 @@ If a student has an accident between classes, after receiving their punishment, 
 If a student has an accident during lunch, after receiving their punishment, they must remove their skirt or trousers, return to their table to collect their tray, and finish their lunch at a standing table on the stage of the cafetorium.
 
 If a student has an accident after the end of school, they will not receive any punishment from the school, but they may not change before going home. Their parents are considered to be responsible for punishing the student appropriately.
+
+# Bathroom Checks
+Students are considered to have had an accident if they've leaked even a little bit. Since students have reason to conceal small leaks, faculty members have the authority to take action to keep the student honest.
+
+## Potty Dancing
+If a teacher deems that a student is potty dancing (crossing their legs, fidgeting excessively, or otherwise trying to control their bodily functions by means other than their sphincters), the teacher may ask the student if they need to go to the bathroom. If the student answers yes, they must immediately present a bathroom pass, which is handled as normal; if the student answers no, they may not use a bathroom pass for the remainder of class.
+
+## Underwear Checks
+If a student has used a bathroom pass, the teacher may do an underwear check. When doing an underwear check, the teacher goes to the student's seat and inserts their hand up their skirt or down their trousers, feeling the crotch and buttocks of the student's underwear for any sign that the student has urinated or defecated. If the student was already wet or soiled before using the bathroom pass, it is up to the teacher's judgment whether the state of the student's underwear indicates just the prior accident or a fresh one. If the teacher deems that the student has had an accident, the student must stand, expose their underwear, and finish going to the bathroom in their pants; they will then receive the appropriate punishment for their accident.
