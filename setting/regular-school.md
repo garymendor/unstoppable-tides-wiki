@@ -52,33 +52,37 @@ If the student presents such a bathroom pass, the teacher will tell them they ma
 With a choice card, usually (but not always) the shortest holding periods go with the most humiliating toilet permissions and the longest changing permissions.
 
 # Restroom Pass Issuing
-At the first day of the semester and the first day after midterms, all students are issued fifteen passes that are "After Class, Restroom, Immediately" and ten passes that are "Next Class, Pants (exposed), Never". Unlike future issues, these passes are clearly marked, with the restroom passes marked as green and the pants passes marked as red, allowing the student to ration their bathroom passes as they see fit.
+At the first day of the semester and the first day after midterms, all students are issued fifteen passes that are "After Class, Restroom, Immediately" and ten passes that are "Immediately, Pants (exposed), Never". These passes are clearly marked, with the restroom passes marked as green and the pants passes marked as red, allowing the student to ration their bathroom passes as they see fit.
 
 For each subsequent week, the student will be issued twenty-five passes, according to the following:
 
-* For each time the student used a pass to go in their pants, the student receives one "Bad" pass.
-* For each *unused* pass that had a toilet permission of "pants" or "pants (exposed)", the student receives one "Average" pass.
-* For each time the student used a pass to use the potty or go to the restroom, the student receives one "Good" pass.
-* For each *unused* pass that had a toilet permission of "restroom" or "potty", the student receives one "Very Good" pass.
+* For each time the student used a pass to go in their pants, the student receives one "Bad" pass. These passes are marked as orange.
+* For each *unused* pass that had a toilet permission of "pants" or "pants (exposed)", the student receives one "Average" pass. These passes are marked as yellow.
+* For each time the student used a pass to use the potty or go to the restroom, the student receives one "Good" pass. These passes are marked as green.
+* For each *unused* pass that had a toilet permission of "restroom" or "potty", the student receives one "Very Good" pass. These passes are marked as blue.
 
-However, if the student had any accidents in the previous week, each accident replaces one of their passes with a "Very Bad" pass, starting with their best passes first.
+However, if the student had any accidents in the previous week, each accident replaces one of their passes with a "Very Bad" pass, starting with their best passes first. "Very Bad" passes are marked as red.
+
+The passes are generated according to the following algorithm.
+First, roll 3d6 to see if the pass is actually what it says. On 5 or less (4.6%), generate the pass using one category worse than what the pass is supposed to be; on 16 or more (4.6%), roll one category better. (If you roll 5 or less on a Very Bad pass, it is automatically a "Never" pass. If you roll 16 or better on a Very Good pass, it is automatically "Immediately, Restroom, Immediately".)
+Then, consulting the appropriate table, roll 3d6 to determine the number of choices, then roll three times for each choice. If there is more than one choice, add 2 to the rolls for the second choice and 4 to the rolls for the third choice. If you roll Never for the holding period on any choice, don't bother rolling the other two.
 
 ## Very Bad passes
-These passes are generally issued as a punishment, either for having an accident or for some other misbehavior. None of them allow the student to use the toilet or potty. Roll 3d6:
+These passes are generally issued as a punishment, either for having an accident or for some other misbehavior. None of them allow the student to use the toilet or potty; if the student has a choice, it's generally only to have better odds of *not* having to stand in front of the class to wet or soil themselves and to have less time to spend in their dirty underwear.
 
 Number of choices | Frequency
 ---|---
-3 | 17-18 (1.9%)
-2 | 12-16 (35.6%)
-1 | 3-11 (62.5%)
+3 | 15-18 (9.3%)
+2 | 11-14 (40.3%)
+1 | 3-10 (50%)
 
 Holding Period | Frequency
 ---|---
-At End of Class | 14-18 (16.2%)
-After Class | 11-13 % (33.8%)
-Next Class | 8-10 % (33.8%)
-After 1 Hour | 4-7 (15.7%)
-Never | 3 (0.5%)
+At End of Class | 15-18 (9.3%)
+After Class | 12-14 (28.2%)
+Next Class | 9-11 (36.6%)
+After 1 Hour | 6-8 (21.3%)
+Never | 3-5 (4.6%)
 
 Toilet Permission | Frequency
 ---|---
@@ -91,3 +95,26 @@ After Class | 16-18 (4.6%)
 Next Class | 12-15 (32.9%)
 End of Next Class | 8-11 (46.3%)
 Never | 3-7 (16.2%)
+
+## Bad passes
+These passes indicate that the student is going to the bathroom more often than the recommended three times per school day. These mostly give the student the choice of going in their pants fairly quickly or waiting a long time to use the potty.
+
+Toilet Permission | Frequency
+---|---
+Restroom | 17-18 (0.5%)
+Potty | 14-16 (15.7%)
+Pants | 9-13 (57.9%)
+Pants (public) | 3-8 (25.9%)
+
+# Accidents
+Sometimes a student isn't able to hold it for as long as their bathroom pass tells them they must, or they need to go to the bathroom more than they have passes. If a student wets or soils themselves wihtout using a bathroom pass, or before their bathroom pass gives them permission, this is considered an *accident*.
+
+All students who start to have an accident must immediately stand up if they are sitting, and remain standing until they have finished going to the bathroom in their pants. They must then report to the nearest responsible adult, declare that they have had an accident, expose their wet or soiled underwear as instructed, and receive a reprimand (and a spanking, at the faculty member's option). Once this is done, they must then remain standing in a visible location with their underwear exposed.
+
+If a student has an accident during class, after receiving their punishment, they must stand in front of the class for fifteen minutes. If there is less than fifteen minutes in class, they must remove their skirt or trousers and go to their next class in just their top and underwear.
+
+If a student has an accident between classes, after receiving their punishment, they must remove their skirt or trousers, stand beside the restroom until the bell rings, and may not put their skirt or trousers on until they reach their next class. This will not count as tardiness, but they must stand in front of the classroom for ten minutes after they arrive at the next class.
+
+If a student has an accident during lunch, after receiving their punishment, they must remove their skirt or trousers, return to their table to collect their tray, and finish their lunch at a standing table on the stage of the cafetorium.
+
+If a student has an accident after the end of school, they will not receive any punishment from the school, but they may not change before going home. Their parents are considered to be responsible for punishing the student appropriately.
