@@ -15,3 +15,7 @@ In addition to the inmates, the student body is filled out with the children of 
 
 # Grab bag of ideas
 ## Medical Enhancements
+A variety of [drugs and substances](/bathroom-control-institute/medical/) are administered to all inmates. The most notable substances are:
+* **Potidiol**: A drug that causes the inmate to need to urinate and defecate frequently.
+* **Urgencinin**: A drug that causes the inmate to experience weakened or nonexistent control over her bodily functions.
+* **DiaperLotion**: A lotion that prevents the inmate from experiencing diaper rash, and may cause her to become aroused when she has an accident. 
