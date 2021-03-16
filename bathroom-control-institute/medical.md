@@ -1,5 +1,5 @@
-<!-- TITLE: Medical -->
-<!-- SUBTITLE: A quick summary of Medical -->
+<!-- TITLE: Medical Enhancements -->
+<!-- SUBTITLE: Drugs used to enhance the BCI experience -->
 
 # Medical Enhancements
 The BCI is powered by several medical enhancements developed by talented (and, of course, perverse) doctors.
