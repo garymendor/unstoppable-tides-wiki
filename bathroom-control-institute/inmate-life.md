@@ -41,9 +41,26 @@ During her bedwetting punishment, the inmate is required to stand with her hands
 Each dorm manager is in charge of four inmates, which will generally be punished at the same time. The first inmate to wet herself will be denied bathroom and changing privileges until noon.
 
 # Cleanup
-An inmate who has wet or soiled her panties is required to continue to wear her soaked or loaded panties until given permission by an authority to change. Except in rare instances, an inmate is not allowed to change her own panties.
+An inmate who has wet or soiled her panties is required to continue to wear her soaked or loaded panties until given permission by an authority to change. Except in rare instances, an inmate will not be granted permission to change her own panties, and she will be severely punished if she attempts to do so without permission.
 
 ## Asking permission
-A wet or soiled inmate must ask an authority for permission to get a change, saying whether she is wet or soiled or both. If she was ordered to have an accident, she must ask whoever ordered it for a change; if she had an "actual" accident, she must ask the first authority to witness her accident. (In either case, it is extremely unlikely that she will be given permission.)
+A wet or soiled inmate must ask an authority for permission to get a change, saying whether she is wet or soiled or both. The authority can agree to change the inmate, refuse to allow her to change, require her to wait, or require the inmate to perform any task in order to get permission to change. It is customary for inmates to be required to sexually gratify someone, either the authority themselves or another authority or student, to get permission. The authority may also allow another authority or a student to change the inmate, or have the other person supply their own requirements to grant the change of panties.
 
-An inmate cannot ask the same person twice for permission for a change unless she has gone to the bathroom (either in the toilet or in her panties again) since the last time she asked, unless that person has granted her permission to ask later.
+The inmate is allowed to refuse to perform a task required of her, but obviously must then continue to wear her dirty panties, and cannot subsequently ask the same authority for permission to change unless she has gone to the bathroom (either in the toilet or in her panties again) since she first asked.
+
+Whenever the inmate goes to the bathroom in her panties, she must immediately ask the nearest authority for permission to change. It is customary for the authority to deny this request outright (usually with a lecture on why the inmate doesn't deserve clean panties) and forbid the student from asking again.
+
+# Punishments
+## Mild punishments
+* Must strip to her panties and masturbate to orgasm. May get dressed afterward.
+* May not ask permission to urinate, except in her panties, until she has been given permission to do so.
+* May not ask permission to change her panties unless she has urinated in them more than once.
+## Moderate punishments
+* Must remove all clothing above her waist, and may not cover her breasts for twenty-four hours. Must allow any authority or student to touch and/or cum on her breasts.
+* May not ask permission to defecate, except in her panties, until she has been given permission to do so twice. May ask for a change of panties between soilings.
+* May not ask permission to urinate except in her panties for twenty-four hours; may not ask for a change of panties unless she needs to urinate, and must ask to wet herself immediately after being changed.
+* May not ask permission to change her panties unless she has both urinated and defecated in them, or urinated in them three times.
+## Severe punishments
+* Must remove all clothing except her panties, and may wear nothing but her panties for twenty-four hours. Must allow any authority or student to touch her with their hands wherever they choose, and must allow them to cum on her on request.
+* Denied all bathroom and changing privileges for twenty-four hours.
+* Must wear a urine-activated vibrator for twenty-four hours; may not urinate except in her panties, may not ask change her panties, and may not ask permission to cum.
