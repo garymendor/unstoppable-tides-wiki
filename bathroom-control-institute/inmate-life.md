@@ -22,6 +22,8 @@ An inmate that needs to go to the bathroom must immediately inform the nearest a
 
 If an inmate is denied permission to go to the bathroom, she may instead ask for permission to have an accident. This request also may be granted or denied at the authority's discretion. Once an inmate has asked permission to wet or soil herself, she will no longer be allowed to use the toilet in any circumstances; she must either wet or soil herself if given permission, or hold it if she is not.
 
+When an inmate receives permission to go to the bathroom, she must also ask the restroom monitor for permission to go to the bathroom. The restroom monitor may either allow the inmate to go, forbid her from using that bathroom (requiring the student to find another bathroom), or order her to have an accident (either outside the restroom or in front of the toilet). If the restroom monitor orders the inmate to have an accident, the inmate must return to the authority that originally gave her bathroom permission and tell them that she didn't make it.
+
 ## Accident On Command
 An inmate ordered to "have an accident" must proceed to the location specified by the authority (typically a public place - during class, this is usually in front of the blackboard), adopt whatever pose is ordered of them, and proceed to urinate or defecate in her panties or diaper until she is empty.
 
@@ -42,14 +44,31 @@ When interrogated as to why the inmate had an accident, the inmate must answer a
 Regardless of the reason, any inmate who has an "actual" accident will be punished for going in her panties on purpose. Inmates are encouraged to ask for permission to have an accident to avoid this punishment.
 
 ## Bedwetting
-Thanks to Potidiol PM, it is virtually guaranteed that all inmates will wet the bed every night. When an inmate wets the bed, she will be berated by the dorm manager, being told that she should get up to go to the bathroom when she needs to pee instead of peeing in her pajamas.
+Thanks to Potidiol PM, it is virtually guaranteed that all inmates will wet the bed every night. Accordingly, the student is normally allowed to wear pull-ups. If an inmate wets enough for her pajamas and sheets to be soaked, she will be berated by the dorm manager, being told that she should get up to go to the bathroom when she needs to pee instead of peeing in her pajamas. This is deliberately unfair, as inmates are not allowed to get out of bed in the night.
 
 If the inmate does not already urgently need to urinate, the dorm manager will administer a dose of Urgencinin-W to ensure that she does. The inmate will then be required to carry her wet sheets to the clothesline in front of the dormitories, hang them on the line, then remove her pajamas and hang those on the line as well, then stand beside her wet sheets and pajamas wearing only her wet underwear for fifteen minutes. 
 
 During her bedwetting punishment, the inmate is required to stand with her hands behind her back and her feet 30cm apart, and is not allowed to hold her hands in front of her in any way, nor allow her knees to touch; each attempt to hold herself or put her legs together will add one minute to her sentence. The inmate is encouraged to beg to be allowed to go to the bathroom, but will be told to hold it until her bedwetting punishment is over. She will eventually wet herself, which will be treated as usual for an "actual" accident.
+# Underwear
+## Panties
+Standard BCI-issue inmate panties are high-tech garments that have the following features:
+* The panties are made of a thick cotton-like material that absorbs a considerable volume of urine (though not a full wetting) and becomes translucent when wet. They are often decorated with childish patterns that change color when wet.
+* The gusset of the panties includes an extra layer of absorptive fabric against the skin, with a waterproof layer between. This will cause urine to pool in the crotch of the panties.
+* The outer layer of the panties is coated in a partially waterproof layer; wet panties will still be damp to the touch, but will dry very slowly.
+* The seat of the panties is elastic, capable of accommodating a full soiling while holding the feces firmly against the inmate's bottom.
+* The leg and waist elastics are strong enough to keep soiled panties from falling off.
+* There is a drawstring in the waist which can be tied to keep the panties from falling off after multiple soilings.
+* The leg elastics are waterproof but contain leak holes where the leg meets the torso. This will cause urine to tend to run down the inmate's legs instead of pouring from the lowest part of the crotch.
 
-Each dorm manager is in charge of four inmates, which will generally be punished at the same time. The first inmate to wet herself will be denied bathroom and changing privileges until noon.
+## Pull-ups
+Pull-ups are generally used as a punishment, or for nighttime use. They have the following features:
+* The pull-ups are obviously bulky and contain enough padding to absorb about two bladderfuls.
+* An inner thin fabric feel-wet layer causes the pull-ups to feel damp on the slightest leak.
+* The outer layer is completely waterproof and designed to crinkle.
+* The leg elastics are leak-resistant, but are designed to leak first at the crotch, like normal panties.
 
+## Diapers
+Full diapers are used almost entirely as a punishment. They are similar to pull-ups except they are thicker and more absorbent (enough to absorb five or six wettings), and are taped up. Inmates may not ask to go to the bathroom or to have an accident while wearing diapers; instead, they must announce that they have wet or soiled themselves *after* doing so. They will not be punished for having an "actual" accident, merely berated as if they were an infant who wasn't ready for big-girl panties.
 # Cleanup
 An inmate who has wet or soiled her panties is required to continue to wear her soaked or loaded panties until given permission by an authority to change. Except in rare instances, an inmate will not be granted permission to change her own panties, and she will be severely punished if she attempts to do so without permission.
 
@@ -70,12 +89,14 @@ Mild punishments are imposed for minor infractions, including but not limited to
 * Talking back to a teacher.
 
 Examples of mild punishments:
+* The inmate must wear panties to bed the next night, guaranteeing that she will wet the bed.
 * The inmate must stand in a public place and expose her panties for up to an hour.
 * The inmate must take a dose of Urgencinin-W, and may not ask to use the bathroom for one hour except in her panties.
 * The inmate must attend [detention,](/bathroom-control-institute/school#detention) and take a dose of Urgencinin-W before detention begins.
 * The inmate must strip to her panties and masturbate to orgasm. She may get dressed afterward.
 * The inmate cannot ask for permission to urinate, except in her panties, until she has wet herself.
 * The inmate may not ask permission to change her panties unless she has defecated in them, or urinated in them more than once.
+* The inmate must be changed into pull-ups; she will be allowed to ask to go to the bathroom as normal, but she will not be allowed a change until the pull-ups have leaked urine.
 
 ## Moderate punishments
 Moderate punishments are imposed for infractions such as:
@@ -92,6 +113,8 @@ Examples of moderate punishments:
 * The inmate must attend [detention,](/bathroom-control-institute/school#detention)  and take a dose of Urgencinin-W and Urgencinin-S before detention begins.
 * The inmate cannot ask for permission to urinate or defecate, except in her panties, until she has soiled herself.
 * The inmate may not ask permission to change her panties unless she has soiled herself and then wet herself.
+* The inmate must be changed into pull-ups; she will be allowed to ask to go to the bathroom as normal, but she will not be allowed a change until the pull-ups are soiled *and* have leaked urine.
+* The inmate must be changed into diapers, and may not wear any clothing that covers them. She may not go to the bathroom, nor be changed, until she is both soiled and wet.
 
 ## Serious punishments
 Serious punishments are imposed for infractions such as:
@@ -105,6 +128,8 @@ Examples of serious punishments:
 * The inmate may not ask permission to urinate except in her panties for twenty-four hours; she may not ask for a change of panties unless she needs to urinate, and must ask to wet herself immediately after being changed.
 * The inmate cannot ask for permission to urinate or defecate, except in her panties, until she has soiled herself twice.
 * The inmate may not ask permission to change her panties unless she has soiled herself twice and then wet herself twice.
+* The inmate must be changed into pull-ups. All restroom monitors will order her to have an accident in front of the toilet. She will not be allowed a change until the pull-ups have been soiled twice and have leaked twice.
+* The inmate must be changed into diapers, and may not wear any clothing that covers them. She may not go to the bathroom, nor be changed, until her diaper leaks.
 
 ## Severe punishments
 Severe punishments are generally imposed for only one of two reasons: the inmate attempted to evade a serious punishment, or the inmate's sentence includes a periodic severe punishment.
