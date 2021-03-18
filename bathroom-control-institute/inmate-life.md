@@ -89,14 +89,14 @@ Mild punishments are imposed for minor infractions, including but not limited to
 * Talking back to a teacher.
 
 Examples of mild punishments:
-* The inmate must wear panties to bed the next night, guaranteeing that she will wet the bed.
-* The inmate must stand in a public place and expose her panties for up to an hour.
-* The inmate must take a dose of Urgencinin-W, and may not ask to use the bathroom for one hour except in her panties.
-* The inmate must attend [detention,](/bathroom-control-institute/school#detention) and take a dose of Urgencinin-W before detention begins.
-* The inmate must strip to her panties and masturbate to orgasm. She may get dressed afterward.
-* The inmate cannot ask for permission to urinate, except in her panties, until she has wet herself.
-* The inmate may not ask permission to change her panties unless she has defecated in them, or urinated in them more than once.
-* The inmate must be changed into pull-ups; she will be allowed to ask to go to the bathroom as normal, but she will not be allowed a change until the pull-ups have leaked urine.
+* **Bedwetter:** The inmate must wear panties to bed the next night (with Potidiol PM, this guarantees that she will wet the bed).
+* **Flasher:** The inmate must expose her panties or bra on demand for up to an hour. An authority may require her to remain exposed for the duration.
+* **Desperate to Pee:** The inmate must take a dose of Urgencinin-W; if she needs to pee in the next hour, she must wet herself.
+* **Wetting Detention:** The inmate must attend [detention,](/bathroom-control-institute/school#detention) and take a dose of Urgencinin-W before detention begins.
+* **Panty Wetter:** The inmate must wet herself the next two times she pees. She may change between wettings.
+* **Panty Pooper:** The inmate must soil herself the next time she poops.
+* **Staying Wet:** The inmate may not have her panties changed unless she has wet them at least twice.
+* **Wet Pull-ups:** The inmate must be changed into pull-ups; she will be allowed to ask to go to the bathroom as normal, but she will not be allowed a change until the pull-ups have leaked urine.
 
 ## Moderate punishments
 Moderate punishments are imposed for infractions such as:
@@ -108,13 +108,15 @@ Moderate punishments are imposed for infractions such as:
 Examples of moderate punishments:
 * Two mild punishments at once.
 * If the inmate attempted to evade a mild punishment involving denial of bathroom or changing privileges, she must wear a restraint (locked punishment shorts, wrist shackles, bondage mittens) until she has performed the mild punishment.
-* For the next twenty-four hours, the inmate must remove her shirt for any authority or student who asks to see her breasts, and lift her skirt or pull down her pants for anyone who asks to see her panties. She is not required to allow them to touch her body.
-* The inmate must take a dose of Urgencinin-W and Urgencinin-S, and may not ask to use the bathroom for one hour except in her panties.
-* The inmate must attend [detention,](/bathroom-control-institute/school#detention)  and take a dose of Urgencinin-W and Urgencinin-S before detention begins.
-* The inmate cannot ask for permission to urinate or defecate, except in her panties, until she has soiled herself.
-* The inmate may not ask permission to change her panties unless she has soiled herself and then wet herself.
-* The inmate must be changed into pull-ups; she will be allowed to ask to go to the bathroom as normal, but she will not be allowed a change until the pull-ups are soiled *and* have leaked urine.
-* The inmate must be changed into diapers, and may not wear any clothing that covers them. She may not go to the bathroom, nor be changed, until she is both soiled and wet.
+* **Full Day Flasher:** For the next twenty-four hours, the inmate must remove her shirt for any authority or student who asks to see her bra, and lift her skirt or pull down her pants for anyone who asks to see her panties. She is not required to allow them to touch her body.
+* **Desperate to Poo:** The inmate must take a dose of Urgencinin-W and Urgencinin-S; if she needs to pee or poop in the next hour, she must wet or soil herself.
+* **Soiling Detention:** The inmate must attend [detention,](/bathroom-control-institute/school#detention)  and take a dose of Urgencinin-W and Urgencinin-S before detention begins.
+* **Wet Wetter:** The inmate must wet herself the next two times she pees. She may not change until after the second wetting.
+* **Heavy Wetter:** The inmate must wet herself the next three times she pees. She may change between wettings.
+* **Double Trouble:** The inmate must wet herself the next time she pees, and soil herself the next time she poops. She may not change until she has done both, but may use the bathroom to pee once she has wet herself.
+* **Soggy and Squishy:** The inmate may not ask permission to change her panties unless she has wet herself while already soiled.
+* **Messy Pull-ups:** The inmate must be changed into pull-ups; she will be allowed to ask to go to the bathroom as normal, but she will not be allowed a change until the pull-ups are soiled *and* have leaked urine.
+* **Demoted to Diapers:** The inmate must be changed into diapers, and may not wear any clothing that covers them. She may not go to the bathroom, nor be changed, until she is both soiled and wet.
 
 ## Serious punishments
 Serious punishments are imposed for infractions such as:
@@ -124,17 +126,29 @@ Serious punishments are imposed for infractions such as:
 Examples of serious punishments:
 * Two moderate punishments at once.
 * The inmate must wear a restraint until she has performed the moderate punishment she avoided.
-* The inmate must remove all clothing above her waist, and may not cover her breasts for twenty-four hours; and must expose her panties on request. She must allow any authority or student to touch and/or cum on her breasts, and to touch her panties.
-* The inmate may not ask permission to urinate except in her panties for twenty-four hours; she may not ask for a change of panties unless she needs to urinate, and must ask to wet herself immediately after being changed.
-* The inmate cannot ask for permission to urinate or defecate, except in her panties, until she has soiled herself twice.
-* The inmate may not ask permission to change her panties unless she has soiled herself twice and then wet herself twice.
-* The inmate must be changed into pull-ups. All restroom monitors will order her to have an accident in front of the toilet. She will not be allowed a change until the pull-ups have been soiled twice and have leaked twice.
+* **Full Day Topless:** The inmate must remove all clothing above her waist, and may not cover her breasts for twenty-four hours; and must expose her panties on request. She must allow any authority or student to touch and/or cum on her breasts, and to touch her panties.
+* **Streaker:** The inmate must remove all clothing except her panties, and may wear nothing but her panties for the next hour. She must allow any authority or student to touch her with their hands wherever they choose, and must allow them to cum on her on request.
+* **Wet All Day:** The inmate may not pee except in her panties for twenty-four hours; she may not ask for a change of panties unless she needs to urinate, and must ask to wet herself immediately after being changed.
+* **Jumbo Panty Filler:** THe inmate may not poo except in her panties for twenty-four hours. She may change after a soiling, and may use the bathroom to pee as normal.
+* **Poopy Panty Wetter:** The inmate may not pee, except in her panties, until she soils herself, and then must pee in her panties once more. She may not change until after the last wetting.
+* **Very Soggy and Squishy:** The inmate may not ask permission to change her panties unless she has soiled and wet herself twice each.
+* **Not Ready For Pull-ups:** The inmate must be changed into pull-ups. All restroom monitors will order her to have an accident in front of the toilet. She will not be allowed a change until the pull-ups have been soiled twice and have leaked twice.
 * The inmate must be changed into diapers, and may not wear any clothing that covers them. She may not go to the bathroom, nor be changed, until her diaper leaks.
 
 ## Severe punishments
 Severe punishments are generally imposed for only one of two reasons: the inmate attempted to evade a serious punishment, or the inmate's sentence includes a periodic severe punishment.
 
 Examples of severe punishments:
-* The inmate must remove all clothing except her panties, and may wear nothing but her panties for twenty-four hours. She must allow any authority or student to touch her with their hands wherever they choose, and must allow them to cum on her on request.
-* For twenty-four hours, the inmate cannot ask for permission to urinate or defecate except in her panties, and cannot ask for a change.
+* **Full Day Streaker:** As with "Streaker", but for twenty-four hours.
+* **Full Day Potty-Pants:** The inmate may not pee or poo except in her panties, and may not have her panties changed, for a full twenty-four hours, starting from the first time she wets or soils herself.
 * The inmate must wear a urine-activated vibrator for twenty-four hours; she may not urinate except in her panties, may not ask to change her panties, and may not ask permission to cum.
+
+# Sentencing
+An inmate will typically be sentenced to additional periodic punishments on top of the normal BCI rules. Some examples:
+
+## Light sentences
+These are typically equivalent to a mild punishment every day, a moderate punishment once a week, and a serious punishment once a month.
+
+Example sentences:
+* **Weak Bladder.** Daily: Bedwetter; Weekly: Wet Wetter (at the start of homeroom); Monthly: Wet All Day
+* **Pooper.** Daily: Panty Pooper (at the start of homeroom); Weekly: Soggy and Squishy (starting when she first soils erself); Monthly:
