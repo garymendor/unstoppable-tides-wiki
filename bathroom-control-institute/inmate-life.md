@@ -3,7 +3,7 @@
 
 The inmates of BCI are young women of junior high and high school age, sentenced to a term in BCI by judges who select defendants with the right mental vulnerabilities to suffer from the humiliations of BCI life. It is not unheard of for BCI inmates to be innocent of the crimes of which they are accused, if they or their families lack the resources to defend them from these courts.
 
-An inmate at BCI can expect to be repeatedly forced to wet or soil herself, go for prolonged periods without being allowed to change her dirty panties, and be forced to perform humiliating chores to get those changes. The degradation is as much psychological as physical - inmates are taunted and mocked for their shameful accidents, treated as if they were willful little girls who aren't properly toilet trained and not trying very hard to be, and told that they don't deserve to have clean panties.
+An inmate at BCI can expect to be repeatedly forced to wet or soil herself, go for prolonged periods without being allowed to change her dirty panties, and be forced to perform humiliating chores to get those changes. The degradation is as much psychological as physical - inmates are taunted and mocked for their shameful accidents, treated as if they were willful little girls who aren't properly toilet trained and not trying very hard to be, and told that they don't deserve to have clean panties. They are also required to claim responsibility for all of their potty accidents, which they generally do not actually deserve.
 
 Every morning, at the start of the day, every inmate has to recite the BCI Motto:
 > Good girls can make it to the toilet when they need to pee.
@@ -14,7 +14,8 @@ Every morning, at the start of the day, every inmate has to recite the BCI Motto
 > Bad girls only deserve to wear panties they have peed and pooped in.
 > I am a bad girl.
 > The only potty I deserve is my panties.
-> And the only panties I deserve are panties I've gone potty in.
+> The only panties I deserve are panties I've gone potty in.
+> And I should be ashamed of myself for being a potty-pants.
 # Bathroom Control
 The most important rule at BCI is that inmates are *not allowed* to urinate or defecate unless specifically authorized by a teacher or staff member, and are *required* to urinate or defecate as directed by a teacher or staff member.
 
@@ -32,19 +33,19 @@ In the social context of BCI, this is treated as if the inmate had actually had 
 Once the inmate has done wetting or soiling herself, the authority will generally berate the inmate for her poor toilet training, accuse her of not trying hard enough to make it to the bathroom, and so forth. The authority may also order the inmate to:
 * **Tell everyone what you just did**: The inmate must answer along the lines of "I wet myself" or "I pooped my panties."
 * **Show everyone what you just did**: The inmate must lower her pants or lift her skirt and present her freshly wet or soiled panties.
-* **Tell us why you had an accident**: The inmate must answer along the lines of "I couldn't hold it any longer," "I had to go too bad", or otherwise falsely claim that she involuntarily wet or soiled herself. If the inmate truthfully answers that she was told to have an accident, she will be called a liar, interrogated until she "admits the truth", and given additional punishment.
+* **Tell us why you had an accident**: The inmate must answer along the lines of "I couldn't hold it any longer," "I had to go too bad", or otherwise falsely claim that she involuntarily wet or soiled herself. If the inmate truthfully answers that she was told to have an accident, she will be called a liar, interrogated until she "admits the truth", and given additional punishment. This is deliberately unfair; the inmate was actually ordered to have an accident, but is forced to assert that she was incontinent.
 
 ## "Actual" Accidents
 At times, an inmate may actually lose control of her bladder or bowels, either because of a dose of Urgencinin or because she was simply denied permission to go until she genuinely could not hold it any longer.
 
-When an inmate feels herself begin to lose control of her bodily functions, she must immediately go to the nearest authority, announce "I'm peeing/pooping6 my panties", and remain in place until she has finished wetting or soiling herself. If she loses control in class, she must stand up beside her seat and make the announcement. If she has finished going before she reaches an authority, she must make her announcement in the past tense.
+When an inmate feels herself begin to lose control of her bodily functions, she must immediately go to the nearest authority, announce "I'm peeing/pooping my panties", and remain in place until she has finished wetting or soiling herself. If she loses control in class, she must stand up beside her seat and make the announcement. If she has finished going before she reaches an authority, she must make her announcement in the past tense.
 
-When interrogated as to why the inmate had an accident, the inmate must answer along the lines of "I didn't want to wait to go to the bathroom like a big girl", "I decided I'd rather go to the bathroom in my panties", or otherwise falsely assert that she voluntarily wet or soiled herself. As with the reverse case, if the inmate truthfully answers that she couldn't hold it, she will be called a liar, accused of deliberately wetting or soiling herself until she "admits the truth", and given additional punishment.
+When interrogated as to why the inmate had an accident, the inmate must answer along the lines of "I didn't want to wait to go to the bathroom like a big girl", "I decided I'd rather go to the bathroom in my panties", or otherwise falsely assert that she voluntarily wet or soiled herself. As with the reverse case, if the inmate truthfully answers that she couldn't hold it, she will be called a liar, accused of deliberately wetting or soiling herself until she "admits the truth", and given additional punishment. This is deliberately unfair; the inmate was denied the use of the bathroom until she had an accident, but is forced to assert that she chose to wet or soil herself.
 
 Regardless of the reason, any inmate who has an "actual" accident will be punished for going in her panties on purpose. Inmates are encouraged to ask for permission to have an accident to avoid this punishment.
 
 ## Bedwetting
-Thanks to Potidiol PM, it is virtually guaranteed that all inmates will wet the bed every night. Accordingly, the student is normally allowed to wear pull-ups. If an inmate wets enough for her pajamas and sheets to be soaked, she will be berated by the dorm manager, being told that she should get up to go to the bathroom when she needs to pee instead of peeing in her pajamas. This is deliberately unfair, as inmates are not allowed to get out of bed in the night.
+Thanks to Potidiol PM, it is virtually guaranteed that all inmates will wet themselves in the night. Accordingly, inmates are normally allowed to wear pull-ups. If an inmate wets enough for her pajamas and sheets to be soaked (either because she wet her pull-ups to the point of leaking or because she did not wear protection to bed), she will be berated by the dorm manager, being told that she should get up to go to the bathroom when she needs to pee instead of peeing in her pajamas. This is deliberately unfair; the inmate was not allowed to go to the bathroom in the night (and is usually drugged so that she *cannot* wake up to go to the bathroom), but she must assert that she chose to wet the bed instead of using the bathroom.
 
 If the inmate does not already urgently need to urinate, the dorm manager will administer a dose of Urgencinin-W to ensure that she does. The inmate will then be required to carry her wet sheets to the clothesline in front of the dormitories, hang them on the line, then remove her pajamas and hang those on the line as well, then stand beside her wet sheets and pajamas wearing only her wet underwear for fifteen minutes. 
 
@@ -70,7 +71,7 @@ Pull-ups are generally used as a punishment, or for nighttime use. They have the
 ## Diapers
 Full diapers are used almost entirely as a punishment. They are similar to pull-ups except they are thicker and more absorbent (enough to absorb five or six wettings), and are taped up. Inmates may not ask to go to the bathroom or to have an accident while wearing diapers; instead, they must announce that they have wet or soiled themselves *after* doing so. They will not be punished for having an "actual" accident, merely berated as if they were an infant who wasn't ready for big-girl panties.
 # Cleanup
-An inmate who has wet or soiled her panties is required to continue to wear her soaked or loaded panties until given permission by an authority to change. Except in rare instances, an inmate will not be granted permission to change her own panties, and she will be severely punished if she attempts to do so without permission.
+An inmate who has wet or soiled her panties is required to continue to wear her soaked or loaded panties until given permission by an authority to change. Except in rare instances, an inmate will not be granted permission to change her own panties, and she will be given serious punishment if she attempts to do so without permission.
 
 ## Asking permission
 A wet or soiled inmate must ask an authority for permission to get a change, saying whether she is wet or soiled or both. The authority can agree to change the inmate, refuse to allow her to change, require her to wait, or require the inmate to perform any task in order to get permission to change. It is customary for inmates to be required to sexually gratify someone, either the authority themselves or another authority or student, to get permission. The authority may also allow another authority or a student to change the inmate, or have the other person supply their own requirements to grant the change of panties.
@@ -102,7 +103,6 @@ Examples of mild punishments:
 Moderate punishments are imposed for infractions such as:
 * Attempting (unsuccessfully) to use the bathroom without permission.
 * Wetting or soiling herself in secret.
-* Changing her own panties.
 * Attempting to evade a mild punishment.
 
 Examples of moderate punishments:
@@ -121,6 +121,7 @@ Examples of moderate punishments:
 ## Serious punishments
 Serious punishments are imposed for infractions such as:
 * Successfully using the bathroom without permission.
+* Changing her own wet or soiled panties.
 * Attempting to evade a moderate punishment.
 
 Examples of serious punishments:
